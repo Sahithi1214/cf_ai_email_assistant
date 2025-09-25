@@ -2,6 +2,11 @@
 
 A sophisticated AI-powered email writing assistant built on Cloudflare Workers, featuring Llama 3.3, Durable Objects for state management, voice input capabilities, and advanced workflow coordination.
 
+# Test Images
+
+<img width="1718" height="740" alt="Screenshot 2025-09-24 at 10 48 18 PM" src="https://github.com/user-attachments/assets/215c7228-3e76-4e40-8967-0afc8abec91f" />
+<img width="1718" height="740" alt="Screenshot 2025-09-24 at 10 48 24 PM" src="https://github.com/user-attachments/assets/b07b6daf-62e3-4483-ac34-ea3539108d0f" />
+
 ## ✨ Features
 
 ### Core AI Components
