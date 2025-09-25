@@ -14,9 +14,7 @@ A sophisticated AI-powered email writing assistant built on Cloudflare Workers, 
 - **Modern UI**: Beautiful, responsive design with gradient backgrounds
 - **Real-time Updates**: Live workflow progress and status updates
 - **Voice Support**: Click-to-speak functionality
-- **Two Generation Modes**:
-  - ⚡ **Quick Generate**: Fast, simple email generation
-  - 🔧 **Advanced Workflow**: Multi-step analysis and structured email creation
+- ⚡ **Quick Generate**: Fast, simple email generation
 
 ### Technical Architecture
 - **Cloudflare Workers**: Serverless compute platform
@@ -65,8 +63,7 @@ A sophisticated AI-powered email writing assistant built on Cloudflare Workers, 
 3. **Test the application**:
    - Try typing: "Write a follow-up email to a client about project status"
    - Use voice input by clicking the microphone button
-   - Test the advanced workflow for complex email generation
-
+   
 ### Deployment
 
 1. **Deploy to Cloudflare**:
@@ -148,20 +145,10 @@ No additional environment variables required - the app uses Cloudflare's built-i
 2. Click "⚡ Quick Generate"
 3. Get instant AI-generated email
 
-### Advanced Workflow
-1. Type your email request
-2. Click "🔧 Advanced Workflow"
-3. Watch the multi-step process:
-   - **Analyzing**: AI analyzes your requirements
-   - **Structuring**: Creates email structure and outline
-   - **Generating**: Writes the final email
-4. Review the professionally structured result
-
 ### Voice Input
 1. Click "🎤 Voice Input"
 2. Speak your email request
 3. The text will be automatically filled
-4. Choose Quick or Advanced generation
 
 ## 🛠️ Development
 
@@ -225,7 +212,6 @@ worker-email-ai/
 
 - **Modern UI/UX**: Beautiful, responsive design
 - **Voice Input**: Hands-free operation
-- **Two Generation Modes**: Quick vs Advanced
 - **Real-time Progress**: Live workflow monitoring
 - **Error Handling**: Comprehensive error management
 - **Mobile Responsive**: Works on all devices
