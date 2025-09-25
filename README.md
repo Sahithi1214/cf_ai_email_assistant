@@ -251,18 +251,6 @@ worker-email-ai/
 - Check browser console for frontend errors
 - Use `wrangler tail` for real-time debugging
 
-## 📄 License
-
-MIT License - feel free to use this project as a starting point for your own AI applications!
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
 ---
 
 **Built with ❤️ using Cloudflare Workers, Llama 3.3, and modern web technologies**
